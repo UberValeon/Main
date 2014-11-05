@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1414157011 source:c:\users\simon\prog\test\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Time.h"
+
+1414153754 c:\users\simon\prog\test\include\time.h
+	<iostream>
+	<string>
+	<sstream>
+	"conversion.h"
+
+1414157148 source:c:\users\simon\prog\test\src\time.cpp
+	"Time.h"
+
+1414033367 c:\users\simon\prog\test\include\conversion.h
+	<iostream>
+	<string>
+	<sstream>
+
+1414034976 source:c:\users\simon\prog\test\src\conversion.cpp
+	"conversion.h"
+
