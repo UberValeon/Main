@@ -34,29 +34,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Car.h" />
-		<Unit filename="include/Carac.h" />
-		<Unit filename="include/ExCarac.h" />
-		<Unit filename="include/ExTime.h" />
-		<Unit filename="include/ExVehicule.h" />
-		<Unit filename="include/Mage.h" />
-		<Unit filename="include/Moto.h" />
 		<Unit filename="include/Time.h" />
-		<Unit filename="include/Vehicle.h" />
-		<Unit filename="include/Warrior.h" />
-		<Unit filename="include/Weapon.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Car.cpp" />
-		<Unit filename="src/Carac.cpp" />
-		<Unit filename="src/ExCarac.cpp" />
-		<Unit filename="src/ExTime.cpp" />
-		<Unit filename="src/ExVehicule.cpp" />
-		<Unit filename="src/Mage.cpp" />
-		<Unit filename="src/Moto.cpp" />
 		<Unit filename="src/Time.cpp" />
-		<Unit filename="src/Vehicle.cpp" />
-		<Unit filename="src/Warrior.cpp" />
-		<Unit filename="src/Weapon.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
